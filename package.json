@@ -1,0 +1,26 @@
+{
+  "name": "karmabrowserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.1.0",
+    "browserify-shim": "^3.8.12",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-browserify": "^5.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
